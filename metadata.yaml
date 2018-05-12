@@ -42,6 +42,8 @@ creator:
     gutenberg_agent_id: '43584'
     url: http://www.gutenberg.org/2009/agents/43584
 description: Transcription of 1885 Paris edition
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42212#Aloisi--Sige--Toletan--Satyra-Sotadica-de-arcanis-Amoris-et-Veneris
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:

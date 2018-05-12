@@ -1,0 +1,60 @@
+_repo: Aloisi--Sige--Toletan--Satyra-Sotadica-de-arcanis-Amoris-et-Veneris_42212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Meurs, Johannes van
+    aliases:
+    - Meursius, Io. (Iohannes)
+    - Meursius, Joannes, the Elder
+    - Meursius, Joannes
+    - Van Meurs, Johannes
+    - Meurs, Jan van
+    - Meursius, Johannes
+    birthdate: 1579
+    deathdate: 1639
+    gutenberg_agent_id: '46003'
+    url: http://www.gutenberg.org/2009/agents/46003
+  - agent_name: Chorier, Nicolas
+    aliases:
+    - Cholier, Nicolas
+    - Chorier, Nicholas
+    - Chorier, Nicolaus
+    - Chorier, Monsieur (Nicolas)
+    - Chorier, Sieur (Nicolas)
+    - Chorerius, Nicolaus
+    birthdate: 1612
+    deathdate: 1692
+    gutenberg_agent_id: '41575'
+    url: http://www.gutenberg.org/2009/agents/41575
+    wikipedia: http://en.wikipedia.org/wiki/Nicolas_Chorier
+  - agent_name: Sigea, Luisa
+    aliases:
+    - De Velasco, Luisa Sigea
+    - Velasco, Luisa Sigea de
+    - Cuevas, Luisa Sigea de
+    - Sigeia, Luísa
+    - Sigéa, Luiza
+    - Sigea, Aloisia
+    - De Cuevas, Luisa Sigea
+    gutenberg_agent_id: '43584'
+    url: http://www.gutenberg.org/2009/agents/43584
+description: Transcription of 1885 Paris edition
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42212'
+language:
+- la
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature -- Early works to 1800'
+- !lcc 'HQ'
+- !lcc 'PA'
+title: Aloisiæ Sigeæ Toletanæ Satyra Sotadica de arcanis Amoris et Veneris
+url: http://www.gutenberg.org/ebooks/42212
